@@ -1,0 +1,7 @@
+.mobileLogo {
+    width: 11.25rem; /* Minimalna szerokość na urządzeniach mobilnych */
+  }
+  
+  .desktopLogo {
+    width: 20rem; /* Minimalna szerokość na urządzeniach desktopowych */
+  }
